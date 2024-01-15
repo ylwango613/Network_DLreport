@@ -1,0 +1,200 @@
+Epoch [1/50], Step [100/391], Loss: 1.7015
+Epoch [1/50], Step [200/391], Loss: 1.5661
+Epoch [1/50], Step [300/391], Loss: 1.4420
+Epoch [1/50], Test Loss: 1.4095, Test Accuracy: 49.50%
+Epoch [2/50], Step [100/391], Loss: 1.3344
+Epoch [2/50], Step [200/391], Loss: 1.2819
+Epoch [2/50], Step [300/391], Loss: 1.2627
+Epoch [2/50], Test Loss: 1.2392, Test Accuracy: 55.90%
+Epoch [3/50], Step [100/391], Loss: 1.0058
+Epoch [3/50], Step [200/391], Loss: 1.1810
+Epoch [3/50], Step [300/391], Loss: 1.1331
+Epoch [3/50], Test Loss: 1.1804, Test Accuracy: 58.91%
+Epoch [4/50], Step [100/391], Loss: 1.1266
+Epoch [4/50], Step [200/391], Loss: 1.2504
+Epoch [4/50], Step [300/391], Loss: 1.1216
+Epoch [4/50], Test Loss: 1.1053, Test Accuracy: 60.98%
+Epoch [5/50], Step [100/391], Loss: 1.0363
+Epoch [5/50], Step [200/391], Loss: 1.1257
+Epoch [5/50], Step [300/391], Loss: 1.0822
+Epoch [5/50], Test Loss: 1.0902, Test Accuracy: 61.33%
+Epoch [6/50], Step [100/391], Loss: 1.1862
+Epoch [6/50], Step [200/391], Loss: 1.0382
+Epoch [6/50], Step [300/391], Loss: 0.9522
+Epoch [6/50], Test Loss: 1.0378, Test Accuracy: 64.13%
+Epoch [7/50], Step [100/391], Loss: 1.1427
+Epoch [7/50], Step [200/391], Loss: 1.0325
+Epoch [7/50], Step [300/391], Loss: 0.9335
+Epoch [7/50], Test Loss: 1.0389, Test Accuracy: 63.24%
+Epoch [8/50], Step [100/391], Loss: 1.0419
+Epoch [8/50], Step [200/391], Loss: 1.0939
+Epoch [8/50], Step [300/391], Loss: 0.9838
+Epoch [8/50], Test Loss: 1.0288, Test Accuracy: 63.92%
+Epoch [9/50], Step [100/391], Loss: 0.9212
+Epoch [9/50], Step [200/391], Loss: 1.1669
+Epoch [9/50], Step [300/391], Loss: 0.9945
+Epoch [9/50], Test Loss: 0.9793, Test Accuracy: 65.30%
+Epoch [10/50], Step [100/391], Loss: 1.0848
+Epoch [10/50], Step [200/391], Loss: 0.9242
+Epoch [10/50], Step [300/391], Loss: 0.9462
+Epoch [10/50], Test Loss: 0.9792, Test Accuracy: 66.08%
+Epoch [11/50], Step [100/391], Loss: 0.9988
+Epoch [11/50], Step [200/391], Loss: 0.9064
+Epoch [11/50], Step [300/391], Loss: 0.9256
+Epoch [11/50], Test Loss: 0.9601, Test Accuracy: 66.17%
+Epoch [12/50], Step [100/391], Loss: 1.0185
+Epoch [12/50], Step [200/391], Loss: 0.8954
+Epoch [12/50], Step [300/391], Loss: 0.8254
+Epoch [12/50], Test Loss: 0.9713, Test Accuracy: 66.12%
+Epoch [13/50], Step [100/391], Loss: 0.8063
+Epoch [13/50], Step [200/391], Loss: 0.9368
+Epoch [13/50], Step [300/391], Loss: 0.9407
+Epoch [13/50], Test Loss: 0.9697, Test Accuracy: 65.65%
+Epoch [14/50], Step [100/391], Loss: 0.9233
+Epoch [14/50], Step [200/391], Loss: 0.6793
+Epoch [14/50], Step [300/391], Loss: 1.0876
+Epoch [14/50], Test Loss: 0.9542, Test Accuracy: 66.12%
+Epoch [15/50], Step [100/391], Loss: 0.8726
+Epoch [15/50], Step [200/391], Loss: 0.8788
+Epoch [15/50], Step [300/391], Loss: 1.0103
+Epoch [15/50], Test Loss: 0.9219, Test Accuracy: 67.99%
+Epoch [16/50], Step [100/391], Loss: 0.8352
+Epoch [16/50], Step [200/391], Loss: 0.8289
+Epoch [16/50], Step [300/391], Loss: 0.9316
+Epoch [16/50], Test Loss: 0.9077, Test Accuracy: 68.42%
+Epoch [17/50], Step [100/391], Loss: 0.8715
+Epoch [17/50], Step [200/391], Loss: 0.8248
+Epoch [17/50], Step [300/391], Loss: 0.9514
+Epoch [17/50], Test Loss: 0.9120, Test Accuracy: 68.20%
+Epoch [18/50], Step [100/391], Loss: 0.9256
+Epoch [18/50], Step [200/391], Loss: 0.9105
+Epoch [18/50], Step [300/391], Loss: 0.8093
+Epoch [18/50], Test Loss: 0.9051, Test Accuracy: 68.66%
+Epoch [19/50], Step [100/391], Loss: 0.8300
+Epoch [19/50], Step [200/391], Loss: 0.8182
+Epoch [19/50], Step [300/391], Loss: 0.8436
+Epoch [19/50], Test Loss: 0.8932, Test Accuracy: 69.08%
+Epoch [20/50], Step [100/391], Loss: 0.7046
+Epoch [20/50], Step [200/391], Loss: 0.8221
+Epoch [20/50], Step [300/391], Loss: 0.8540
+Epoch [20/50], Test Loss: 0.8732, Test Accuracy: 69.48%
+Epoch [21/50], Step [100/391], Loss: 0.7338
+Epoch [21/50], Step [200/391], Loss: 0.8986
+Epoch [21/50], Step [300/391], Loss: 0.9084
+Epoch [21/50], Test Loss: 0.8753, Test Accuracy: 69.20%
+Epoch [22/50], Step [100/391], Loss: 0.8733
+Epoch [22/50], Step [200/391], Loss: 0.7287
+Epoch [22/50], Step [300/391], Loss: 0.8234
+Epoch [22/50], Test Loss: 0.8546, Test Accuracy: 70.26%
+Epoch [23/50], Step [100/391], Loss: 0.7904
+Epoch [23/50], Step [200/391], Loss: 0.8186
+Epoch [23/50], Step [300/391], Loss: 0.8690
+Epoch [23/50], Test Loss: 0.8784, Test Accuracy: 69.41%
+Epoch [24/50], Step [100/391], Loss: 0.7182
+Epoch [24/50], Step [200/391], Loss: 0.8879
+Epoch [24/50], Step [300/391], Loss: 0.6611
+Epoch [24/50], Test Loss: 0.8723, Test Accuracy: 69.46%
+Epoch [25/50], Step [100/391], Loss: 0.9436
+Epoch [25/50], Step [200/391], Loss: 0.8182
+Epoch [25/50], Step [300/391], Loss: 0.8470
+Epoch [25/50], Test Loss: 0.8582, Test Accuracy: 69.80%
+Epoch [26/50], Step [100/391], Loss: 0.7128
+Epoch [26/50], Step [200/391], Loss: 0.8244
+Epoch [26/50], Step [300/391], Loss: 0.8343
+Epoch [26/50], Test Loss: 0.8417, Test Accuracy: 70.46%
+Epoch [27/50], Step [100/391], Loss: 0.8109
+Epoch [27/50], Step [200/391], Loss: 0.7971
+Epoch [27/50], Step [300/391], Loss: 0.8384
+Epoch [27/50], Test Loss: 0.8528, Test Accuracy: 69.90%
+Epoch [28/50], Step [100/391], Loss: 0.7902
+Epoch [28/50], Step [200/391], Loss: 0.8629
+Epoch [28/50], Step [300/391], Loss: 0.7470
+Epoch [28/50], Test Loss: 0.8340, Test Accuracy: 71.03%
+Epoch [29/50], Step [100/391], Loss: 0.7354
+Epoch [29/50], Step [200/391], Loss: 0.7515
+Epoch [29/50], Step [300/391], Loss: 0.5944
+Epoch [29/50], Test Loss: 0.8647, Test Accuracy: 70.15%
+Epoch [30/50], Step [100/391], Loss: 0.7265
+Epoch [30/50], Step [200/391], Loss: 0.9385
+Epoch [30/50], Step [300/391], Loss: 0.8433
+Epoch [30/50], Test Loss: 0.8287, Test Accuracy: 70.90%
+Epoch [31/50], Step [100/391], Loss: 0.7509
+Epoch [31/50], Step [200/391], Loss: 0.7828
+Epoch [31/50], Step [300/391], Loss: 0.9041
+Epoch [31/50], Test Loss: 0.8227, Test Accuracy: 71.54%
+Epoch [32/50], Step [100/391], Loss: 0.9508
+Epoch [32/50], Step [200/391], Loss: 0.7169
+Epoch [32/50], Step [300/391], Loss: 0.6993
+Epoch [32/50], Test Loss: 0.8250, Test Accuracy: 71.32%
+Epoch [33/50], Step [100/391], Loss: 0.5517
+Epoch [33/50], Step [200/391], Loss: 0.6199
+Epoch [33/50], Step [300/391], Loss: 0.7087
+Epoch [33/50], Test Loss: 0.8206, Test Accuracy: 71.62%
+Epoch [34/50], Step [100/391], Loss: 0.8035
+Epoch [34/50], Step [200/391], Loss: 0.8081
+Epoch [34/50], Step [300/391], Loss: 0.7461
+Epoch [34/50], Test Loss: 0.8105, Test Accuracy: 71.03%
+Epoch [35/50], Step [100/391], Loss: 0.6302
+Epoch [35/50], Step [200/391], Loss: 0.6243
+Epoch [35/50], Step [300/391], Loss: 0.6864
+Epoch [35/50], Test Loss: 0.8267, Test Accuracy: 71.08%
+Epoch [36/50], Step [100/391], Loss: 0.7268
+Epoch [36/50], Step [200/391], Loss: 0.5529
+Epoch [36/50], Step [300/391], Loss: 0.5573
+Epoch [36/50], Test Loss: 0.8217, Test Accuracy: 71.76%
+Epoch [37/50], Step [100/391], Loss: 0.6090
+Epoch [37/50], Step [200/391], Loss: 0.6711
+Epoch [37/50], Step [300/391], Loss: 0.9938
+Epoch [37/50], Test Loss: 0.8236, Test Accuracy: 71.19%
+Epoch [38/50], Step [100/391], Loss: 0.6780
+Epoch [38/50], Step [200/391], Loss: 0.7183
+Epoch [38/50], Step [300/391], Loss: 0.7002
+Epoch [38/50], Test Loss: 0.7969, Test Accuracy: 72.14%
+Epoch [39/50], Step [100/391], Loss: 0.6881
+Epoch [39/50], Step [200/391], Loss: 0.6402
+Epoch [39/50], Step [300/391], Loss: 0.7770
+Epoch [39/50], Test Loss: 0.8085, Test Accuracy: 72.07%
+Epoch [40/50], Step [100/391], Loss: 0.8723
+Epoch [40/50], Step [200/391], Loss: 0.6091
+Epoch [40/50], Step [300/391], Loss: 0.5788
+Epoch [40/50], Test Loss: 0.8209, Test Accuracy: 72.10%
+Epoch [41/50], Step [100/391], Loss: 0.7108
+Epoch [41/50], Step [200/391], Loss: 0.6313
+Epoch [41/50], Step [300/391], Loss: 0.5305
+Epoch [41/50], Test Loss: 0.8129, Test Accuracy: 72.13%
+Epoch [42/50], Step [100/391], Loss: 0.7290
+Epoch [42/50], Step [200/391], Loss: 0.8024
+Epoch [42/50], Step [300/391], Loss: 0.7315
+Epoch [42/50], Test Loss: 0.8496, Test Accuracy: 70.90%
+Epoch [43/50], Step [100/391], Loss: 0.6354
+Epoch [43/50], Step [200/391], Loss: 0.5842
+Epoch [43/50], Step [300/391], Loss: 0.7966
+Epoch [43/50], Test Loss: 0.7859, Test Accuracy: 72.83%
+Epoch [44/50], Step [100/391], Loss: 0.5292
+Epoch [44/50], Step [200/391], Loss: 0.6527
+Epoch [44/50], Step [300/391], Loss: 0.6603
+Epoch [44/50], Test Loss: 0.7863, Test Accuracy: 73.14%
+Epoch [45/50], Step [100/391], Loss: 0.6643
+Epoch [45/50], Step [200/391], Loss: 0.7458
+Epoch [45/50], Step [300/391], Loss: 0.5737
+Epoch [45/50], Test Loss: 0.8171, Test Accuracy: 71.94%
+Epoch [46/50], Step [100/391], Loss: 0.8308
+Epoch [46/50], Step [200/391], Loss: 0.7112
+Epoch [46/50], Step [300/391], Loss: 0.5754
+Epoch [46/50], Test Loss: 0.7879, Test Accuracy: 72.72%
+Epoch [47/50], Step [100/391], Loss: 0.5947
+Epoch [47/50], Step [200/391], Loss: 0.7830
+Epoch [47/50], Step [300/391], Loss: 0.6226
+Epoch [47/50], Test Loss: 0.8073, Test Accuracy: 72.81%
+Epoch [48/50], Step [100/391], Loss: 0.7556
+Epoch [48/50], Step [200/391], Loss: 0.6033
+Epoch [48/50], Step [300/391], Loss: 0.6311
+Epoch [48/50], Test Loss: 0.7983, Test Accuracy: 72.30%
+Epoch [49/50], Step [100/391], Loss: 0.8056
+Epoch [49/50], Step [200/391], Loss: 0.7004
+Epoch [49/50], Step [300/391], Loss: 0.5767
+Epoch [49/50], Test Loss: 0.7872, Test Accuracy: 72.48%
+Epoch [50/50], Step [100/391], Loss: 0.7789
+Epoch [50/50], Step [200/391], Loss: 0.7586
+Epoch [50/50], Step [300/391], Loss: 0.6194
+Epoch [50/50], Test Loss: 0.7677, Test Accuracy: 73.28%
